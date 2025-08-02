@@ -1,0 +1,36 @@
+{
+  "employee": "John Doe",
+  "created": "2025-08-02T16:18:22.104358",
+  "tasks": [
+    {
+      "task": "Send welcome email",
+      "status": "completed",
+      "owner": "HR"
+    },
+    {
+      "task": "Prepare workspace",
+      "status": "pending",
+      "owner": "Facilities"
+    },
+    {
+      "task": "Setup IT accounts",
+      "status": "pending",
+      "owner": "IT"
+    },
+    {
+      "task": "Schedule first day meeting",
+      "status": "pending",
+      "owner": "Jane Smith"
+    },
+    {
+      "task": "Assign buddy/mentor",
+      "status": "pending",
+      "owner": "HR"
+    },
+    {
+      "task": "Order business cards",
+      "status": "pending",
+      "owner": "Marketing"
+    }
+  ]
+}
